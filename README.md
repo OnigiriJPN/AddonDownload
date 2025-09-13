@@ -1,0 +1,2 @@
+# AddonDownload
+リリースからAddonダウンロードできます！
